@@ -8,10 +8,10 @@ Bu repo README dosyası ve index adında bir de html dosyası içerir.
 Patika'da başladığım eğitimlerin sonucunda GIT dersini bitirmek için bu repoyu ödev olarak yükledim.
 
 ### Tamamladığım Dersler
--Temel Dersler
--VSCode, Kısayollar ve Terminal Kullanımı
--GIT, GitHub ve Markdown
--Veri Yapıları ve Algoritmalar
+- Temel Dersler
+- VSCode, Kısayollar ve Terminal Kullanımı
+- GIT, GitHub ve Markdown
+- Veri Yapıları ve Algoritmalar
 
 -----
 
